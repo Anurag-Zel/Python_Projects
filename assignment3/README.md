@@ -1,0 +1,13 @@
+- # Task_1 : 
+  - User enters a number.
+  - Input strings are converted into intergers
+  - Any exceptions are handled, so it doesn't interupt the main function.
+  - Recursive factorial {function} call.
+  - Output is display.
+
+- # Task_2 :
+  - User enters a number.
+  - Input strings are converted into intergers
+  - Any exceptions are handled, so it doesn't interupt the main function.
+  - Import Math module
+  - Calculate and display output.
