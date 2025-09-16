@@ -9,16 +9,14 @@ def factorial(num) :
         return num * factorial(num-1)
 
 try :
-    num = int(input("Enter a number: "))    
+    num = int(input("\nEnter a number: "))    
     if num < 0 :
         raise ValueError()
     else :
         fact = factorial(num)
 
-        print(f"Factorial of {num} is: {fact}")
-except ValueError as ve :
-    print(f"\nCan't calculate factorial for negative integer")        
+        print(f"Factorial of {num} is: {fact}")        
 except Exception as e: 
-    print(f"\nError: Not a valid number, {e}")
+    print(f"\nError: Not a valid number. Enter integer greater equal than 0")
 finally :
-    print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")        
+    print("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")        
