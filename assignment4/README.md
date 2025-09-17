@@ -1,0 +1,11 @@
+- # Task_1 : 
+  - Check if the file at defined path exists.
+  - If file doesn't exists, a filenotfounderror is handled.
+  - If file exist, display output line by line.
+
+- # Task_2 :
+  - User enter an input
+  - The output file, if exists is truncated and new inputed string is inserted.
+  - User enters additional input.
+  - Additional input is appended to output file. 
+  - Display output file content.

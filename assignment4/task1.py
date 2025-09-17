@@ -13,4 +13,5 @@ try :
 except Exception as e:
     print(f"\nError: The file {file_name} was not found.")
 finally : 
+    read_file.close()
     print("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")        
