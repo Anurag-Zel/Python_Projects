@@ -1,0 +1,12 @@
+- # Task_1 : 
+  - Create a dictionary of student {name -> marks}
+  - Ask the user for a name as input.
+  - Check if student with that name is present.
+  - If exists, display their mark.
+  - If file doesn't exist, raise an exception and print output accordingly.
+
+- # Task_2 :
+  - Create a list of numbers from 1 to 10.
+  - Select the first 5 numbers and store them.
+  - Create a list with ordering of values as reverse of above list.
+  - Print both list.
