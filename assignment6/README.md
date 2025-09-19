@@ -1,0 +1,17 @@
+- # **Task_1** :
+  - ## Objective - CALCULATOR USING TKINTER.
+    - Import Tkinter module
+    - Initialize a window using **Tk** class.
+    - Define the dimesions of the window.
+    - Call the **mainloop** function to start the window.
+    - Define an entry box using **Entry** class, to display the results of all operations.
+    - Define all the buttons *{i.e. numbers from 0 to 9, all operators, and clear and equals}* using **Button** class in Tkinter.
+    - Define a function **click**, used to display the numeric value of button *{only numerical buttons}* clicked.
+    - Define 4 individual functions name **add**, **sub**, **multiply**, **divide** for all four operations. These function retrieves the current value displayed in entry box, converts it to integer and stores in a global variable **i**.
+    - Each of these 4 functions has a global variable **math** that stores values between *{'addition', 'substraction', 'multiplication' and 'division'}* is saved in accordance to function that is called
+    - Define a **equals** function that will get the current value from entry box. It will performs math operation based on global variable **math** and display result in entry box.
+    - Define a **clear** function to just delete/reset the display of entry box to nothing.
+    - Attach each function to its respective button.
+    - For any exception, it will be caught in except block, avoiding any abdrupt termination of program.
+    - In finally block just close the window, forcefully using **window.destroy** function.
+   
