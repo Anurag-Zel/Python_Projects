@@ -9,8 +9,6 @@ try :
     div = num1 / num2
 
     print(f"\n\nAddition: {add} \nSubtraction: {sub} \nMultiplication: {mul} \nDivision: {div}")
-except ZeroDivisionError :
-    print(f"\nError: Division by zero, not defined.")
 except Exception as e :
     print(f"\nError: Not a valid number, {e}")    
 finally :    
