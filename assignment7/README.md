@@ -1,0 +1,8 @@
+- # **Task_1** :
+  - ## Objective - Building Database Apps with PostgreSQL & Python.
+    - Install *psycopg2* or *pg8000* library to connect pgAdmin.
+    - Establish connection to Database using *psycopg2* or *pg8000* libary, using *{database name, user, password, host, port}*.
+    - Perform different query, like **create table**, **insert data** & **extract data** on the table.
+    - Initialize commit statement to execute.
+    - Print outputs.
+    - For any exception, it will be caught in except block, avoiding any abdrupt termination of program.
