@@ -1,0 +1,18 @@
+- # **Task_1** :
+  - ## Objective - Django-User Registration and login project
+    - Start a Django Project and cd into it.
+    - Migrate project to avoid any sync-up error with database. 
+    - Create an App inside it.
+    - Move inside *settings.py* file and add the app inside **INSTALLED_APPS**
+    - Go to the *urls.py* add path to it.
+    - Create **templates** folder inside the App, and add two html files.
+    - Go into the *views.py* and add functions to view these files, using *MVT*.
+    - Copy the *urls.py* from project into the app. Add paths for these functions.
+    - Implement **User Registration** functionality.
+    - Create a folder *templates* inside the root directory.
+    - Add two more html files.
+    - Create a form inside html files using *MVT*.
+    - Add paths for the same.
+    - Inside *settings.py* add *templates* to **DIR**, and add login and logout urls.
+    - Implement **User Login** functionality.
+   
