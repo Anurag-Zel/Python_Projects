@@ -1,0 +1,13 @@
+- # **Task** :
+  - ## Objective - Django- Form project
+    - Start a Django Project **web** and cd into it.
+    - Migrate project to avoid any sync-up error with database. 
+    - Create an App **app** inside it.
+    - Move inside *settings.py* file and add the *app* inside **INSTALLED_APPS**
+    - Inside *models.py* create a schema for Model.
+    - Create a new *forms.py* file. Create a form class inside it, defining all the fields we want to output.
+    - Inside *views.py* define function to output html files.
+    - Create a folder *templates* and initialize the html file.
+    - Create an *urls.py* inside app and add path.
+    - Install *crispy_forms* for styling. Apply crispy forms in html file.
+   
