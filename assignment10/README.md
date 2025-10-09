@@ -1,0 +1,12 @@
+- # **Task** :
+  - ## Objective - Django- Blog project
+    - Start a Django Project **website** and cd into it.
+    - Migrate project to avoid any sync-up error with database. 
+    - Create an App **blog** inside it.
+    - Move inside *settings.py* file and add the *blog* inside **INSTALLED_APPS**
+    - Inside *models.py* create a schema for blogs. Additionally add some functions to fetch blog details.
+    - Inside *admin.py* register the blog model.
+    - Make migrations in terminal.
+    - Create a root folder *templates* to store two html files.
+    - Run the server.
+   
