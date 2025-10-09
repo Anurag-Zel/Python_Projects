@@ -18,3 +18,7 @@
 * ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment8)
 
 * ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment9)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment10)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment11)
