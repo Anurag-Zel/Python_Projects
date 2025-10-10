@@ -24,5 +24,5 @@ class PriceTracer:
 
 
 device = PriceTracer(url="https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5Z3T4M/ref=asc_df_B0CS5Z3T4M?mcid=48012694a08a39539ba003c56cdef1f0&tag=googleshopdes-21&linkCode=df0&hvadid=709962856229&hvpos=&hvnetw=g&hvrand=17772791252292532230&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061830&hvtargid=pla-2282976224153&gad_source=1&th=1")
-print(device.product_price)
-print(device.product_title)
+print(device.product_price())
+print(device.product_title())
