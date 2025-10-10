@@ -34,5 +34,3 @@
 * ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment16)
 
 * ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment17)
-
-* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment18)
