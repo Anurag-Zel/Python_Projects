@@ -22,3 +22,17 @@
 * ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment10)
 
 * ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment11)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment12)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment13)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment14)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment15)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment16)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment17)
+
+* ### [Assignment 6](https://github.com/Anurag-Zel/Python_Projects/tree/main/assignment18)
